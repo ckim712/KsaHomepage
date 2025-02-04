@@ -3,6 +3,7 @@
  * Copyright © 2023 Osman Balci. All rights reserved.
  */
 
+ /* 코맨트 */
  package main.java.ksahomepage.galleria;
 
  import org.primefaces.model.ResponsiveOption;
